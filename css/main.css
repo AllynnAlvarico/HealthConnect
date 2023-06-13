@@ -13,8 +13,8 @@ header, nav {
 header {
 	flex-direction: row;
 	justify-content: space-around;
-	padding: 0px 15%;
+	padding: 0px 5%;
 }
 nav {
-	align-content: space-between;
+	gap: 10px;
 }
